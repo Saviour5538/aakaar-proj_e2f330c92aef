@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules
+
+# Python cache files
+__pycache__
+
+# Environment files
+.env
+
+# Git repository files
+.git
+
+# Python compiled files
+*.pyc
+
+# Build output directories
+dist
+.next
+build
